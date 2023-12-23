@@ -27,7 +27,7 @@
 -  iOS & Swift Bootcamp course at Udemy by Dr. Angela Yu
 -  Swift Marathon 6.0
 -  Swift Marathon 10.0
--  SwiftBook мини-курсы
+-  SwiftBook
 
 ## Статистика GitHub
 
